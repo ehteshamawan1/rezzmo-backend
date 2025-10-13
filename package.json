@@ -1,0 +1,21 @@
+{
+  "name": "rezzmo-backend",
+  "version": "1.0.0",
+  "description": "Rezzmo Backend - Supabase Edge Functions and API Services",
+  "main": "index.js",
+  "scripts": {
+    "dev": "supabase functions serve",
+    "deploy": "supabase functions deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rezzmo",
+    "fitness",
+    "supabase",
+    "backend"
+  ],
+  "author": "Cyberix Digital",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
